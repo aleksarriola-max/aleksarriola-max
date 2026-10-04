@@ -101,6 +101,21 @@ One YAML config → 84-sheet Excel model + Word report + PPTX deck. Full valuati
 
 ---
 
+## Direction
+
+Building at the seam between finance and agentic AI — where a model's plan has to be bound by deterministic policy before it's trusted to touch money, and where a valuation is a range with a stated uncertainty, not a single confident number.
+
+## Philosophy
+
+Reliability is a design choice, not a model upgrade. Most of what makes a system trustworthy is unglamorous — schema validation, policy layers, reconciling three data sources that all claim to report the same number — and it never shows up in the demo. I'd rather ship a narrow agent that does one policy-bound thing reliably than a broad one I can't fully verify.
+
+### So that you smile and/or laugh:
+
+> *"It's not technical debt, it's a deferred bias-correction module."*
+> — me, every time a DCF's terminal value does 80% of the work
+
+---
+
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aleksarriola-max.github.io/)
