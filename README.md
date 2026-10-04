@@ -109,10 +109,14 @@ Building at the seam between finance and agentic AI — where a model's plan has
 
 Reliability is a design choice, not a model upgrade. Most of what makes a system trustworthy is unglamorous — schema validation, policy layers, reconciling three data sources that all claim to report the same number — and it never shows up in the demo. I'd rather ship a narrow agent that does one policy-bound thing reliably than a broad one I can't fully verify.
 
-### So that you smile and/or laugh:
+### 💭 Quote of the Day
 
-> *"It's not technical debt, it's a deferred bias-correction module."*
-> — me, every time a DCF's terminal value does 80% of the work
+<!--QUOTE:START-->
+> *"The successful warrior is the average man with laser-like focus."*
+> — **Bruce Lee**
+<!--QUOTE:END-->
+
+<sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
 
 ---
 

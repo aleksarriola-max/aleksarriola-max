@@ -1,0 +1,39 @@
+[
+  {"text": "Risk comes from not knowing what you're doing.", "author": "Warren Buffett", "theme": "risk"},
+  {"text": "The essence of investment management is the management of risks, not the management of returns.", "author": "Benjamin Graham", "theme": "risk"},
+  {"text": "The four most dangerous words in investing are: 'this time it's different.'", "author": "Sir John Templeton", "theme": "risk"},
+  {"text": "Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1.", "author": "Warren Buffett", "theme": "risk"},
+  {"text": "It is remarkable how much long-term advantage people have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.", "author": "Charlie Munger", "theme": "risk"},
+
+  {"text": "Markets can remain irrational a lot longer than you and I can remain solvent.", "author": "A. Gary Shilling", "theme": "markets"},
+  {"text": "Forecasts may tell you a great deal about the forecaster; they tell you nothing about the future.", "author": "Warren Buffett", "theme": "markets"},
+  {"text": "In the short run, the market is a voting machine; in the long run, it's a weighing machine.", "author": "Benjamin Graham", "theme": "markets"},
+  {"text": "The stock market is a device for transferring money from the impatient to the patient.", "author": "Warren Buffett", "theme": "patience"},
+
+  {"text": "Simplicity is a prerequisite for reliability.", "author": "Edsger Dijkstra", "theme": "building"},
+  {"text": "The competent programmer is fully aware of the limited size of his own skull.", "author": "Edsger Dijkstra", "theme": "building"},
+  {"text": "Testing can show the presence of bugs but never their absence.", "author": "Edsger Dijkstra", "theme": "building"},
+  {"text": "Premature optimization is the root of all evil.", "author": "Donald Knuth", "theme": "building"},
+  {"text": "The question of whether a computer can think is no more interesting than whether a submarine can swim.", "author": "Edsger Dijkstra", "theme": "building"},
+  {"text": "Make it work, make it right, make it fast.", "author": "Kent Beck", "theme": "building"},
+
+  {"text": "It's not that I'm so smart, it's just that I stay with problems longer.", "author": "Albert Einstein", "theme": "persistence"},
+  {"text": "Fall seven times, stand up eight.", "author": "Japanese Proverb", "theme": "persistence"},
+  {"text": "Perseverance is not a long race; it is many short races one after the other.", "author": "Walter Elliot", "theme": "persistence"},
+
+  {"text": "Motivation is what gets you started. Habit is what keeps you going.", "author": "Jim Ryun", "theme": "motivation"},
+  {"text": "The successful warrior is the average man with laser-like focus.", "author": "Bruce Lee", "theme": "motivation"},
+
+  {"text": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.", "author": "Bruce Lee", "theme": "dedication"},
+  {"text": "Discipline is the bridge between goals and accomplishment.", "author": "Jim Rohn", "theme": "dedication"},
+  {"text": "Patience is bitter, but its fruit is sweet.", "author": "Jean-Jacques Rousseau", "theme": "dedication"},
+
+  {"text": "Plans are worthless, but planning is everything.", "author": "Dwight D. Eisenhower", "theme": "building"},
+  {"text": "Work smarter, not harder.", "author": "Allen F. Morgenstern", "theme": "efficiency"},
+  {"text": "It is not enough to be busy. The question is: what are we busy about?", "author": "Henry David Thoreau", "theme": "efficiency"},
+  {"text": "Efficiency is doing things right; effectiveness is doing the right things.", "author": "Peter Drucker", "theme": "efficiency"},
+
+  {"text": "A leader is one who knows the way, goes the way, and shows the way.", "author": "John C. Maxwell", "theme": "leadership"},
+  {"text": "Leadership is not about being in charge. It is about taking care of those in your charge.", "author": "Simon Sinek", "theme": "leadership"},
+  {"text": "The challenge of leadership is to be strong, but not rude; be kind, but not weak.", "author": "Jim Rohn", "theme": "leadership"}
+]
