@@ -4,11 +4,10 @@
 
 Finance & Accounting student at Hult International Business School, building AI agents and automation for real financial workflows — where generative AI meets quantitative finance and complex data pipelines.
 
-Currently a **Finance Intern at The 1525**, studying & building, and open to finance & AI opportunities.
+Open to finance & AI opportunities — internships, research, and builder collaborations.
 
 - 🔭 Currently building **LangGraph M&A "Deal Swarm"** — an autonomous agent system that replicates an investment-banking deal team: LLM agents handle structured data extraction while deterministic Python engines (NumPy/SciPy) run the corporate-finance math.
-- 💼 Finance Intern at **The 1525**, where I built a semi-automated Python screening pipeline that raised analyst throughput ~400× (2,000+ companies screened in ~10 hours vs. 2 hours each).
-- 📫 Reach me at **arriolasosaaleks@gmail.com** or [LinkedIn](https://www.linkedin.com/in/aleks-arriola/).
+- 📫 Reach me at **aleksarriola@gmail.com** or [LinkedIn](https://www.linkedin.com/in/aleks-arriola/).
 - 🌐 Full portfolio, case studies, and daily writing: **[aleksarriola-max.github.io](https://aleksarriola-max.github.io/)**
 
 ---
