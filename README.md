@@ -112,8 +112,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"The successful warrior is the average man with laser-like focus."*
-> — **Bruce Lee**
+> *"The stock market is a giant distraction from the business of investing."*
+> — **John Bogle**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
