@@ -112,8 +112,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"The stock market is a giant distraction from the business of investing."*
-> — **John Bogle**
+> *"Risk comes from not knowing what you're doing."*
+> — **Warren Buffett**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
