@@ -124,6 +124,6 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aleksarriola-max.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleks-arriola/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arriolasosaaleks@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksarriola@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=aleksarriola-max&style=for-the-badge&color=blue)
+[![Profile views](https://komarev.com/ghpvc/?username=aleksarriola-max&style=for-the-badge&color=blue)](https://aleksarriola-max.github.io/)
