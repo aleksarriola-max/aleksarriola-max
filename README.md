@@ -52,7 +52,7 @@ Open to finance & AI opportunities — internships, research, and builder collab
 
 ## 🚀 Featured Projects
 
-### 🏎️ [PitMind](https://github.com/aleksarriola-max/pitMind)
+### 🏎️ [PitMind](https://github.com/aleksarriola-max/pitMind) — 🏅 Most Innovative, IBM SkillsBuild AI Builders Challenge
 AI-powered F1 strategy platform with Fan and Engineer modes. Uses IBM Granite AI and 2025 live telemetry with three custom models — Driver Soul, Momentum, Race Forecast.
 `Python` `Streamlit` `IBM Granite AI`
 
