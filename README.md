@@ -111,8 +111,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"The essence of investment management is the management of risks, not the management of returns."*
-> — **Benjamin Graham**
+> *"The four most dangerous words in investing are: 'this time it's different.'"*
+> — **Sir John Templeton**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
