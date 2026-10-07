@@ -111,8 +111,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"The four most dangerous words in investing are: 'this time it's different.'"*
-> — **Sir John Templeton**
+> *"Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1."*
+> — **Warren Buffett**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
