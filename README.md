@@ -111,8 +111,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1."*
-> — **Warren Buffett**
+> *"It is remarkable how much long-term advantage people have gotten by trying to be consistently not stupid, instead of trying to be very intelligent."*
+> — **Charlie Munger**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
