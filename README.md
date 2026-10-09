@@ -2,7 +2,7 @@
 
 ### Agentic AI, built for finance.
 
-Finance & Accounting student at Hult International Business School, building AI agents for real financial workflows. In everything I ship, the LLM proposes and deterministic, tested code decides, especially when money moves.
+Finance & Marketing student at Hult International Business School, building AI agents for real financial workflows. In everything I ship, the LLM proposes and deterministic, tested code decides, especially when money moves.
 
 🔭 **Now:** building a LangGraph M&A "Deal Swarm", an agent system that replicates an investment-banking deal team. LLM agents extract structured data; deterministic Python (NumPy/SciPy) runs the corporate-finance math.
 💼 **Open to:** finance & AI internships, research, and builder collaborations.
@@ -32,7 +32,7 @@ Reads live mainnet order books and runs market-microstructure analytics in the b
 Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, decay for late work, and withheld funds recycled to the next recipient. Deployed on testnet.
 `Move` `React` · 27 Move unit tests
 
-**Company Health Red-Flag Scanner**: screens 600+ US-listed companies on SEC EDGAR XBRL data with 6 academic distress and quality scores (Altman Z in three variants, Springate, Zmijewski, Piotroski F), Beneish manipulation indices and 80 ratios, producing a composite health score and fraud-risk card. [Case study](https://aleksarriola-max.github.io/#case-scanner) · [sample workbook](https://aleksarriola-max.github.io/Company_Health_Scanner.xlsx)
+**Company Health Red-Flag Scanner**: screens 600+ US-listed companies on SEC EDGAR XBRL data with 11 bankruptcy and fraud-detection models (Altman Z, Springate, Zmijewski, Beneish M, Dechow F, Montier C, Sloan accruals and more), Piotroski F and 80 ratios, producing a composite health score and fraud-risk card. [Case study](https://aleksarriola-max.github.io/#case-scanner) · [workbook](https://aleksarriola-max.github.io/Company_Health_Scanner.xlsx)
 `Python` `SEC EDGAR API`
 
 **Auto Company Valuation Kit (Orcen Capital)**: one YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data. [Case study](https://aleksarriola-max.github.io/#case-orcen) · [Apple model](https://aleksarriola-max.github.io/Apple_Valuation_v45.xlsx)
