@@ -32,10 +32,10 @@ Reads live mainnet order books and runs market-microstructure analytics in the b
 Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, decay for late work, and withheld funds recycled to the next recipient. Deployed on testnet.
 `Move` `React` · 27 Move unit tests
 
-**Company Health Red-Flag Scanner**: screens 600+ US-listed companies on live SEC EDGAR XBRL data across 11 academic models (Altman Z, Beneish M, Piotroski F and more) and 80 ratios, producing a composite health score and fraud-risk card.
+**Company Health Red-Flag Scanner**: screens 600+ US-listed companies on SEC EDGAR XBRL data with 6 academic distress and quality scores (Altman Z in three variants, Springate, Zmijewski, Piotroski F), Beneish manipulation indices and 80 ratios, producing a composite health score and fraud-risk card. [Case study](https://aleksarriola-max.github.io/#case-scanner) · [sample workbook](https://aleksarriola-max.github.io/Company_Health_Scanner.xlsx)
 `Python` `SEC EDGAR API`
 
-**Auto Company Valuation Kit (Orcen Capital)**: one YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data.
+**Auto Company Valuation Kit (Orcen Capital)**: one YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data. [Case study](https://aleksarriola-max.github.io/#case-orcen) · [Apple model](https://aleksarriola-max.github.io/Apple_Valuation_v45.xlsx)
 `Python` `DCF · LBO · Comps`
 
 ---
