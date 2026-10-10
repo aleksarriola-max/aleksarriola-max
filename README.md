@@ -47,7 +47,7 @@ Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, deca
 **Web & chain:** React · Streamlit · Sui SDK · GitHub Actions
 
 ## Credentials
-Google Cybersecurity Certificate · Bloomberg Essentials (Equity & Fixed Income) · IBM SkillsBuild. Plus Forage job simulations with Goldman Sachs, J.P. Morgan, Citi and others.
+53 credentials, including [J.P. Morgan Quantitative Research](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_QpfYdzXEDmNXLhqhA_1780785408175_completion_certificate.pdf), Goldman Sachs [Risk](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_QpfYdzXEDmNXLhqhA_1773013487666_completion_certificate.pdf) and [Internal Audit](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_QpfYdzXEDmNXLhqhA_1776038518248_completion_certificate.pdf), and Standard Chartered [Credit Analyst](https://www.theforage.com/completion-certificates/ZsgybEFo5RxyHxwXL/TwxTEuyPugfgMGm8H_ZsgybEFo5RxyHxwXL_QpfYdzXEDmNXLhqhA_1783209664841_completion_certificate.pdf). [See all, with verified certificates →](https://aleksarriola-max.github.io/#certs)
 
 ## How I work
 Reliability is a design choice, not a model upgrade. Most of what makes a system trustworthy is unglamorous: schema validation, policy layers, reconciling three data sources that claim to report the same number. I'd rather ship a narrow agent that does one policy-bound thing reliably than a broad one I can't verify. I build with AI coding assistants; the design decisions, invariants and tests are mine, and I'm happy to walk through any of them.
