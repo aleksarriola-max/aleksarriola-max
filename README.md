@@ -52,6 +52,16 @@ Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, deca
 ## How I work
 Reliability is a design choice, not a model upgrade. Most of what makes a system trustworthy is unglamorous: schema validation, policy layers, reconciling three data sources that claim to report the same number. I'd rather ship a narrow agent that does one policy-bound thing reliably than a broad one I can't verify. I build with AI coding assistants; the design decisions, invariants and tests are mine, and I'm happy to walk through any of them.
 
+### ✍️ Latest writing
+
+<!--ESSAYS:START-->
+- [What Doing Predictive Attention Analysis Taught Me About Hype Cycles](https://aleksarriola-max.github.io/#essay-80) · Oct 10
+- [Why the Finance Page and the Coding Page Live on the Same Site](https://aleksarriola-max.github.io/#essay-79) · Oct 9
+- [The Best Career Advice I Got Wasn’t About Skills](https://aleksarriola-max.github.io/#essay-78) · Oct 8
+<!--ESSAYS:END-->
+
+<sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
+
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->

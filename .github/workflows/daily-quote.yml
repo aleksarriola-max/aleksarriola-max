@@ -24,6 +24,9 @@ jobs:
       - name: Update quote in README
         run: python3 scripts/update_quote.py
 
+      - name: Update latest essays in README
+        run: python3 scripts/update_essays.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -32,6 +35,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No change for today's quote."
           else
-            git commit -m "chore: advance daily quote"
+            git commit -m "chore: daily quote and latest essays"
             git push
           fi
