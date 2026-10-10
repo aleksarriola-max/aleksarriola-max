@@ -55,8 +55,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"Buy not on optimism, but on arithmetic."*
-> — **Benjamin Graham**
+> *"Risk means more things can happen than will happen."*
+> — **Howard Marks**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
