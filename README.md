@@ -14,7 +14,7 @@ Finance & Marketing student at Hult International Business School, building AI a
 
 **[PitMind](https://github.com/aleksarriola-max/pitMind)**: F1 strategy intelligence · 🏅 Most Innovative, IBM SkillsBuild AI Builders Challenge · [live demo](https://pitmind-de6surgjaau5yewdynmxdp.streamlit.app/?race=bahrain_2025&driver=VER&lap=1)
 Built in 6 days. Combines 2025 F1 telemetry and team-radio sentiment with XGBoost + SHAP models and pit-stop scenario simulation, explained by IBM Granite in two voices: plain language for fans, raw numbers for engineers.
-`Python` `Streamlit` `XGBoost` `IBM Granite` · 36 tests
+`Python` `Streamlit` `XGBoost` `IBM Granite` · 38 tests
 
 **[OpsFlow](https://github.com/aleksarriola-max/opsflow)**: policy-bound AI procurement agent on Sui
 Natural-language spend requests become audited on-chain workflows. The agent's authority is a revocable on-chain capability, and it suspends itself after repeated incidents. Detects structuring (payments split to dodge approval limits), runs an independent AI auditor pass, and anchors a hash of every decision on-chain.
