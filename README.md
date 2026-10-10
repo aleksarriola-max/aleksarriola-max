@@ -73,4 +73,4 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 
 ---
 
-[Portfolio](https://aleksarriola-max.github.io/) · [LinkedIn](https://www.linkedin.com/in/aleks-arriola/) · [Email](mailto:aleksarriola@gmail.com)
+[Portfolio](https://aleksarriola-max.github.io/) · [LinkedIn](https://www.linkedin.com/in/aleks-arriola/) · [Handshake](https://app.joinhandshake.com/profiles/aleksarriola) · [Email](mailto:aleksarriola@gmail.com)
