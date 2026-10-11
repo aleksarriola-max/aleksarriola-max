@@ -55,9 +55,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### ✍️ Latest writing
 
 <!--ESSAYS:START-->
+- [Altman Z-Score Works Until Management Knows It Exists](https://aleksarriola-max.github.io/#essay-81) · Oct 11
 - [What Doing Predictive Attention Analysis Taught Me About Hype Cycles](https://aleksarriola-max.github.io/#essay-80) · Oct 10
 - [Why the Finance Page and the Coding Page Live on the Same Site](https://aleksarriola-max.github.io/#essay-79) · Oct 9
-- [The Best Career Advice I Got Wasn’t About Skills](https://aleksarriola-max.github.io/#essay-78) · Oct 8
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -65,8 +65,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"The big money is not in the buying and the selling, but in the waiting."*
-> — **Charlie Munger**
+> *"Only when you combine sound intellect with emotional discipline do you get rational behavior."*
+> — **Warren Buffett**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
