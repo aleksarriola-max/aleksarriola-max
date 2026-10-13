@@ -55,9 +55,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### ✍️ Latest writing
 
 <!--ESSAYS:START-->
+- [Piotroski F-Score Rewards Boring Improvement](https://aleksarriola-max.github.io/#essay-83) · Oct 13
 - [A Composite Health Score Needs a Veto](https://aleksarriola-max.github.io/#essay-82) · Oct 12
 - [Altman Z-Score Works Until Management Knows It Exists](https://aleksarriola-max.github.io/#essay-81) · Oct 11
-- [What Doing Predictive Attention Analysis Taught Me About Hype Cycles](https://aleksarriola-max.github.io/#essay-80) · Oct 10
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -65,8 +65,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
-> *"Don't cross a river if it is on average four feet deep."*
-> — **Nassim Nicholas Taleb**
+> *"Know what you own, and know why you own it."*
+> — **Peter Lynch**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
