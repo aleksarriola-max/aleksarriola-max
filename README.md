@@ -34,30 +34,30 @@ Co-built **Lifeline**, an on-device disaster-triage agent that ranks collapsed s
 
 ## Featured projects
 
-**[PitMind](https://github.com/aleksarriola-max/pitMind)**: F1 strategy intelligence · 🏅 Most Innovative, IBM SkillsBuild AI Builders Challenge · [live demo](https://pitmind-de6surgjaau5yewdynmxdp.streamlit.app/?race=bahrain_2025&driver=VER&lap=1)
-Built in 6 days. Combines 2025 F1 telemetry and team-radio sentiment with XGBoost + SHAP models and pit-stop scenario simulation, explained by IBM Granite in two voices: plain language for fans, raw numbers for engineers.
+**[PitMind](https://github.com/aleksarriola-max/pitMind)**: F1 strategy intelligence · 🏅 Most Innovative, IBM SkillsBuild AI Builders Challenge · [live demo](https://pitmind-de6surgjaau5yewdynmxdp.streamlit.app/?race=bahrain_2025&driver=VER&lap=1)<br/>
+Built in 6 days. Combines 2025 F1 telemetry and team-radio sentiment with XGBoost + SHAP models and pit-stop scenario simulation, explained by IBM Granite in two voices: plain language for fans, raw numbers for engineers.<br/>
 `Python` `Streamlit` `XGBoost` `IBM Granite` · 38 tests
 
-**[OpsFlow](https://github.com/aleksarriola-max/opsflow)**: policy-bound AI procurement agent on Sui
-Natural-language spend requests become audited on-chain workflows. The agent's authority is a revocable on-chain capability, and it suspends itself after repeated incidents. Detects structuring (payments split to dodge approval limits), runs an independent AI auditor pass, and anchors a hash of every decision on-chain.
+**[OpsFlow](https://github.com/aleksarriola-max/opsflow)**: policy-bound AI procurement agent on Sui<br/>
+Natural-language spend requests become audited on-chain workflows. The agent's authority is a revocable on-chain capability, and it suspends itself after repeated incidents. Detects structuring (payments split to dodge approval limits), runs an independent AI auditor pass, and anchors a hash of every decision on-chain.<br/>
 `TypeScript` `Sui Move` `React` · 84 tests · CI on every push
 
-**[MatchMind](https://github.com/aleksarriola-max/matchMind)**: explainable AI for football refereeing decisions
-Retrieval over the Laws of the Game plus IBM Granite, with a two-layer hallucination firewall (lexical evidence check + Granite entailment pass). Offside calls are modeled probabilistically with error bars. Ships a 75-question eval harness and a red-team report that documents where the verifier fails.
+**[MatchMind](https://github.com/aleksarriola-max/matchMind)**: explainable AI for football refereeing decisions<br/>
+Retrieval over the Laws of the Game plus IBM Granite, with a two-layer hallucination firewall (lexical evidence check + Granite entailment pass). Offside calls are modeled probabilistically with error bars. Ships a 75-question eval harness and a red-team report that documents where the verifier fails.<br/>
 `Python` `Streamlit` `RAG` `IBM Granite` · 129 tests
 
-**[DeepBook Market OS](https://github.com/aleksarriola-max/deepbook-market-os)**: analytics & execution console for Sui's DeepBookV3 · [live demo](https://aleksarriola-max.github.io/deepbook-market-os/)
-Reads live mainnet order books and runs market-microstructure analytics in the browser: transaction-cost analysis, Kyle's lambda, impact curves, and ladder backtests. Every estimated value is explicitly labeled as simulated.
+**[DeepBook Market OS](https://github.com/aleksarriola-max/deepbook-market-os)**: analytics & execution console for Sui's DeepBookV3 · [live demo](https://aleksarriola-max.github.io/deepbook-market-os/)<br/>
+Reads live mainnet order books and runs market-microstructure analytics in the browser: transaction-cost analysis, Kyle's lambda, impact curves, and ladder backtests. Every estimated value is explicitly labeled as simulated.<br/>
 `TypeScript` `React` `Sui SDK`
 
-**[Adaptive Funding Engine](https://github.com/aleksarriola-max/adaptive-funding-engine)**: milestone-based grants on Sui
-Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, decay for late work, and withheld funds recycled to the next recipient. Deployed on testnet.
+**[Adaptive Funding Engine](https://github.com/aleksarriola-max/adaptive-funding-engine)**: milestone-based grants on Sui<br/>
+Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, decay for late work, and withheld funds recycled to the next recipient. Deployed on testnet.<br/>
 `Move` `React` · 27 Move unit tests
 
-**Company Health Red-Flag Scanner**: screens 600+ US-listed companies on SEC EDGAR XBRL data with 11 bankruptcy and earnings-quality models (Altman Z, Springate, Zmijewski, Beneish M, Dechow F, Montier C, Sloan accruals and more), Piotroski F and 80 ratios, producing a composite health score and earnings-quality risk card. [Case study](https://aleksarriola-max.github.io/#case-scanner) · [workbook](https://aleksarriola-max.github.io/Company_Health_Scanner.xlsx)
+**Company Health Red-Flag Scanner**: screens 600+ US-listed companies on SEC EDGAR XBRL data with 11 bankruptcy and earnings-quality models (Altman Z, Springate, Zmijewski, Beneish M, Dechow F, Montier C, Sloan accruals and more), Piotroski F and 80 ratios, producing a composite health score and earnings-quality risk card. [Case study](https://aleksarriola-max.github.io/#case-scanner) · [workbook](https://aleksarriola-max.github.io/Company_Health_Scanner.xlsx)<br/>
 `Python` `SEC EDGAR API`
 
-**Auto Company Valuation Kit (Orcen Capital)**: one YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data. [Case study](https://aleksarriola-max.github.io/#case-orcen) · [Apple model](https://aleksarriola-max.github.io/Apple_Valuation_v45.xlsx)
+**Auto Company Valuation Kit (Orcen Capital)**: one YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data. [Case study](https://aleksarriola-max.github.io/#case-orcen) · [Apple model](https://aleksarriola-max.github.io/Apple_Valuation_v45.xlsx)<br/>
 `Python` `DCF · LBO · Comps`
 
 ## Tools & Technologies
@@ -78,7 +78,7 @@ Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, deca
 
 ### Finance & Data
 
-<img src="https://img.shields.io/badge/DCF%20·%20LBO%20·%20Comps-c9a84c?style=for-the-badge" alt="DCF · LBO · Comps"/> <img src="https://img.shields.io/badge/SEC%20EDGAR%20·%20XBRL-0d1b2a?style=for-the-badge" alt="SEC EDGAR · XBRL"/> <img src="https://img.shields.io/badge/Bloomberg%20Terminal-000000?style=for-the-badge" alt="Bloomberg Terminal"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI"/>
+<img src="https://img.shields.io/badge/DCF%20·%20LBO%20·%20Comps-c9a84c?style=for-the-badge" alt="DCF · LBO · Comps"/> <img src="https://img.shields.io/badge/SEC%20EDGAR%20·%20XBRL-1F4E79?style=for-the-badge" alt="SEC EDGAR · XBRL"/> <img src="https://img.shields.io/badge/Bloomberg%20Terminal-000000?style=for-the-badge" alt="Bloomberg Terminal"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI"/>
 
 ---
 
