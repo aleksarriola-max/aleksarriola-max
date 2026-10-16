@@ -7,9 +7,12 @@
 
 Finance & Marketing student at Hult International Business School, building AI agents for real financial workflows. In everything I ship, the LLM proposes and deterministic, tested code decides, especially when money moves.
 
-🔭 **Now:** building a LangGraph M&A "Deal Swarm", an agent system that replicates an investment-banking deal team. LLM agents extract structured data; deterministic Python (NumPy/SciPy) runs the corporate-finance math.
-💼 **Open to:** finance & AI internships, research, and builder collaborations.
-🌐 **Portfolio, case studies & writing:** [aleksarriola-max.github.io](https://aleksarriola-max.github.io/)
+🔭 **Now:** building a LangGraph M&A "Deal Swarm", an agent system that replicates an investment-banking deal team. LLM agents extract structured data; deterministic Python (NumPy/SciPy) runs the corporate-finance math.<br/>
+💼 **Open to:** finance & AI internships, research, and builder collaborations.<br/>
+🌐 **Portfolio, case studies & writing:** [aleksarriola-max.github.io](https://aleksarriola-max.github.io/)<br/>
+💬 **Ask me about:** why the LLM shouldn't do the math, automating DCF/LBO models, hallucination firewalls, F1 race strategy<br/>
+📚 **Currently learning:** multi-agent orchestration with LangGraph and M&A deal modeling<br/>
+🌎 **También hablo español.**
 
 ## Recognition
 
@@ -34,31 +37,54 @@ Co-built **Lifeline**, an on-device disaster-triage agent that ranks collapsed s
 
 ## Featured projects
 
-**[PitMind](https://github.com/aleksarriola-max/pitMind)**: F1 strategy intelligence · 🏅 Most Innovative, IBM SkillsBuild AI Builders Challenge · [live demo](https://pitmind-de6surgjaau5yewdynmxdp.streamlit.app/?race=bahrain_2025&driver=VER&lap=1)<br/>
-Built in 6 days. Combines 2025 F1 telemetry and team-radio sentiment with XGBoost + SHAP models and pit-stop scenario simulation, explained by IBM Granite in two voices: plain language for fans, raw numbers for engineers.<br/>
+**[PitMind](https://github.com/aleksarriola-max/pitMind)** · F1 strategy intelligence · 🏅 Most Innovative, IBM SkillsBuild · [live demo](https://pitmind-de6surgjaau5yewdynmxdp.streamlit.app/?race=bahrain_2025&driver=VER&lap=1)<br/>
 `Python` `Streamlit` `XGBoost` `IBM Granite` · 38 tests
+<details><summary>Read more</summary>
 
-**[OpsFlow](https://github.com/aleksarriola-max/opsflow)**: policy-bound AI procurement agent on Sui<br/>
-Natural-language spend requests become audited on-chain workflows. The agent's authority is a revocable on-chain capability, and it suspends itself after repeated incidents. Detects structuring (payments split to dodge approval limits), runs an independent AI auditor pass, and anchors a hash of every decision on-chain.<br/>
+Built in 6 days. Combines 2025 F1 telemetry and team-radio sentiment with XGBoost + SHAP models and pit-stop scenario simulation, explained by IBM Granite in two voices: plain language for fans, raw numbers for engineers.
+</details>
+
+**[OpsFlow](https://github.com/aleksarriola-max/opsflow)** · policy-bound AI procurement agent on Sui<br/>
 `TypeScript` `Sui Move` `React` · 84 tests · CI on every push
+<details><summary>Read more</summary>
 
-**[MatchMind](https://github.com/aleksarriola-max/matchMind)**: explainable AI for football refereeing decisions<br/>
-Retrieval over the Laws of the Game plus IBM Granite, with a two-layer hallucination firewall (lexical evidence check + Granite entailment pass). Offside calls are modeled probabilistically with error bars. Ships a 75-question eval harness and a red-team report that documents where the verifier fails.<br/>
+Natural-language spend requests become audited on-chain workflows. The agent's authority is a revocable on-chain capability, and it suspends itself after repeated incidents. Detects structuring (payments split to dodge approval limits), runs an independent AI auditor pass, and anchors a hash of every decision on-chain.
+</details>
+
+**[MatchMind](https://github.com/aleksarriola-max/matchMind)** · explainable AI for football refereeing decisions<br/>
 `Python` `Streamlit` `RAG` `IBM Granite` · 129 tests
+<details><summary>Read more</summary>
 
-**[DeepBook Market OS](https://github.com/aleksarriola-max/deepbook-market-os)**: analytics & execution console for Sui's DeepBookV3 · [live demo](https://aleksarriola-max.github.io/deepbook-market-os/)<br/>
-Reads live mainnet order books and runs market-microstructure analytics in the browser: transaction-cost analysis, Kyle's lambda, impact curves, and ladder backtests. Every estimated value is explicitly labeled as simulated.<br/>
+Retrieval over the Laws of the Game plus IBM Granite, with a two-layer hallucination firewall (lexical evidence check + Granite entailment pass). Offside calls are modeled probabilistically with error bars. Ships a 75-question eval harness and a red-team report that documents where the verifier fails.
+</details>
+
+**[DeepBook Market OS](https://github.com/aleksarriola-max/deepbook-market-os)** · analytics & execution console for Sui's DeepBookV3 · [live demo](https://aleksarriola-max.github.io/deepbook-market-os/)<br/>
 `TypeScript` `React` `Sui SDK`
+<details><summary>Read more</summary>
 
-**[Adaptive Funding Engine](https://github.com/aleksarriola-max/adaptive-funding-engine)**: milestone-based grants on Sui<br/>
-Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, decay for late work, and withheld funds recycled to the next recipient. Deployed on testnet.<br/>
+Reads live mainnet order books and runs market-microstructure analytics in the browser: transaction-cost analysis, Kyle's lambda, impact curves, and ladder backtests. Every estimated value is explicitly labeled as simulated.
+</details>
+
+**[Adaptive Funding Engine](https://github.com/aleksarriola-max/adaptive-funding-engine)** · milestone-based grants on Sui<br/>
 `Move` `React` · 27 Move unit tests
+<details><summary>Read more</summary>
 
-**Company Health Red-Flag Scanner**: screens 600+ US-listed companies on SEC EDGAR XBRL data with 11 bankruptcy and earnings-quality models (Altman Z, Springate, Zmijewski, Beneish M, Dechow F, Montier C, Sloan accruals and more), Piotroski F and 80 ratios, producing a composite health score and earnings-quality risk card. [Case study](https://aleksarriola-max.github.io/#case-scanner) · [workbook](https://aleksarriola-max.github.io/Company_Health_Scanner.xlsx)<br/>
+Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, decay for late work, and withheld funds recycled to the next recipient. Deployed on testnet.
+</details>
+
+**Company Health Red-Flag Scanner** · 600+ US-listed companies screened on SEC EDGAR data · [case study](https://aleksarriola-max.github.io/#case-scanner) · [workbook](https://aleksarriola-max.github.io/Company_Health_Scanner.xlsx)<br/>
 `Python` `SEC EDGAR API`
+<details><summary>Read more</summary>
 
-**Auto Company Valuation Kit (Orcen Capital)**: one YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data. [Case study](https://aleksarriola-max.github.io/#case-orcen) · [Apple model](https://aleksarriola-max.github.io/Apple_Valuation_v45.xlsx)<br/>
+Runs 11 bankruptcy and earnings-quality models (Altman Z, Springate, Zmijewski, Beneish M, Dechow F, Montier C, Sloan accruals and more), Piotroski F and 80 ratios on XBRL data, producing a composite health score and an earnings-quality risk card.
+</details>
+
+**Auto Company Valuation Kit (Orcen Capital)** · one config file → full valuation package · [case study](https://aleksarriola-max.github.io/#case-orcen) · [Apple model](https://aleksarriola-max.github.io/Apple_Valuation_v45.xlsx)<br/>
 `Python` `DCF · LBO · Comps`
+<details><summary>Read more</summary>
+
+One YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data.
+</details>
 
 ## Tools & Technologies
 
@@ -101,6 +127,13 @@ SEC Data Pipelines · Digital Marketing · Full-Cycle Sales
 Reliability is a design choice, not a model upgrade. Most of what makes a system trustworthy is unglamorous: schema validation, policy layers, reconciling three data sources that claim to report the same number. I'd rather ship a narrow agent that does one policy-bound thing reliably than a broad one I can't verify. I build with AI coding assistants; the design decisions, invariants and tests are mine, and I'm happy to walk through any of them.
 
 <p align="center"><b>AI proposes. Checks validate. Code decides.</b></p>
+
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksarriola-max/aleksarriola-max/output/github-snake-dark.svg"/>
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/aleksarriola-max/aleksarriola-max/output/github-snake.svg"/>
+</picture>
 
 <table>
 <tr>
