@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Reading XBRL Taught Me That Tags Are Judgments](https://aleksarriola-max.github.io/#essay-86) · Oct 16
 - [Treasury and Trade Solutions Is a Working Capital Story](https://aleksarriola-max.github.io/#essay-85) · Oct 15
 - [Credit Underwriting Starts With the Downside Case](https://aleksarriola-max.github.io/#essay-84) · Oct 14
-- [Piotroski F-Score Rewards Boring Improvement](https://aleksarriola-max.github.io/#essay-83) · Oct 13
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"Markets can remain irrational a lot longer than you and I can remain solvent."*
-> — **A. Gary Shilling**
+> *"Forecasts may tell you a great deal about the forecaster; they tell you nothing about the future."*
+> — **Warren Buffett**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
