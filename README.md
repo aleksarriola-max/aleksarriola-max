@@ -1,6 +1,9 @@
-# Aleks Arriola
+<h1 align="center">Aleks Arriola</h1>
+<h3 align="center">Agentic AI, built for finance · AI proposes, code decides</h3>
 
-### Agentic AI, built for finance.
+<p align="center">
+  <a href="https://aleksarriola-max.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/aleks-arriola/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://app.joinhandshake.com/profiles/aleksarriola"><img src="https://img.shields.io/badge/Handshake-c9a84c?style=for-the-badge&logo=handshake&logoColor=white" alt="Handshake"/></a> <a href="mailto:aleksarriola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 Finance & Marketing student at Hult International Business School, building AI agents for real financial workflows. In everything I ship, the LLM proposes and deterministic, tested code decides, especially when money moves.
 
@@ -8,9 +11,28 @@ Finance & Marketing student at Hult International Business School, building AI a
 💼 **Open to:** finance & AI internships, research, and builder collaborations.
 🌐 **Portfolio, case studies & writing:** [aleksarriola-max.github.io](https://aleksarriola-max.github.io/)
 
----
+## 🏆 Recognition
 
-## Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🥇 1st Place · Local AI Hackathon**<br/>
+<sub>Dell Technologies × NVIDIA · Boston · Oct 2026</sub><br/>
+Co-built **Lifeline**, an on-device disaster-triage agent that ranks collapsed structures by survivor likelihood and plans rescue dispatch, with a human approving every move. 1st of 40 teams, built in one day.
+
+</td>
+<td width="50%" valign="top">
+
+**🏅 Most Innovative · AI Builders Challenge**<br/>
+<sub>IBM SkillsBuild · May 2026</sub><br/>
+**PitMind**, an F1 strategy tool built in 6 days: telemetry and team-radio sentiment, XGBoost + SHAP models, explained by IBM Granite for fans and for engineers.
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Featured projects
 
 **[PitMind](https://github.com/aleksarriola-max/pitMind)**: F1 strategy intelligence · 🏅 Most Innovative, IBM SkillsBuild AI Builders Challenge · [live demo](https://pitmind-de6surgjaau5yewdynmxdp.streamlit.app/?race=bahrain_2025&driver=VER&lap=1)
 Built in 6 days. Combines 2025 F1 telemetry and team-radio sentiment with XGBoost + SHAP models and pit-stop scenario simulation, explained by IBM Granite in two voices: plain language for fans, raw numbers for engineers.
@@ -38,19 +60,26 @@ Replaces fixed payouts with adaptive vesting: bonuses for on-time delivery, deca
 **Auto Company Valuation Kit (Orcen Capital)**: one YAML config produces an 84-sheet Excel model, a Word report and a slide deck covering DCF, comps, LBO and precedent transactions, with bias-correction modules. Verified end-to-end on Apple FY2024 data. [Case study](https://aleksarriola-max.github.io/#case-orcen) · [Apple model](https://aleksarriola-max.github.io/Apple_Valuation_v45.xlsx)
 `Python` `DCF · LBO · Comps`
 
----
+## 🧰 Toolbox
 
-## Stack
-**Languages:** Python · TypeScript · Move
-**AI & agents:** LangGraph · IBM Granite (watsonx / Ollama) · RAG · XGBoost · SHAP · evaluation harnesses
-**Finance:** DCF / LBO / comps modeling · Bloomberg Terminal · Excel
-**Web & chain:** React · Streamlit · Sui SDK · GitHub Actions
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Move-4DA2FF?style=for-the-badge&logo=sui&logoColor=white" alt="Move"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></td></tr>
+<tr><td><b>AI &amp; agents</b></td><td><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/IBM%20Granite-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Granite"/> <img src="https://img.shields.io/badge/RAG-0d1b2a?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/XGBoost-EB6D26?style=for-the-badge" alt="XGBoost"/> <img src="https://img.shields.io/badge/SHAP-8E44AD?style=for-the-badge" alt="SHAP"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></td></tr>
+<tr><td><b>Finance &amp; data</b></td><td><img src="https://img.shields.io/badge/DCF%20·%20LBO%20·%20Comps-c9a84c?style=for-the-badge" alt="DCF · LBO · Comps"/> <img src="https://img.shields.io/badge/SEC%20EDGAR%20/%20XBRL-0d1b2a?style=for-the-badge" alt="SEC EDGAR / XBRL"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI"/> <img src="https://img.shields.io/badge/Bloomberg%20Terminal-000000?style=for-the-badge" alt="Bloomberg Terminal"/></td></tr>
+<tr><td><b>Web, chain &amp; automation</b></td><td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white" alt="Sui"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></td></tr>
+</table>
 
-## Credentials
+## 📜 Credentials
 53 credentials, including [J.P. Morgan Quantitative Research](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_QpfYdzXEDmNXLhqhA_1780785408175_completion_certificate.pdf), Goldman Sachs [Risk](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_QpfYdzXEDmNXLhqhA_1773013487666_completion_certificate.pdf) and [Internal Audit](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_QpfYdzXEDmNXLhqhA_1776038518248_completion_certificate.pdf), and Standard Chartered [Credit Analyst](https://www.theforage.com/completion-certificates/ZsgybEFo5RxyHxwXL/TwxTEuyPugfgMGm8H_ZsgybEFo5RxyHxwXL_QpfYdzXEDmNXLhqhA_1783209664841_completion_certificate.pdf). [See all, with verified certificates →](https://aleksarriola-max.github.io/#certs)
 
-## How I work
+## 🧭 How I work
 Reliability is a design choice, not a model upgrade. Most of what makes a system trustworthy is unglamorous: schema validation, policy layers, reconciling three data sources that claim to report the same number. I'd rather ship a narrow agent that does one policy-bound thing reliably than a broad one I can't verify. I build with AI coding assistants; the design decisions, invariants and tests are mine, and I'm happy to walk through any of them.
+
+<p align="center"><b>AI proposes. Checks validate. Code decides.</b></p>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### ✍️ Latest writing
 
@@ -62,6 +91,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
 
+</td>
+<td width="45%" valign="top">
+
 ### 💭 Quote of the Day
 
 <!--QUOTE:START-->
@@ -71,6 +103,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
 
----
+</td>
+</tr>
+</table>
 
-[Portfolio](https://aleksarriola-max.github.io/) · [LinkedIn](https://www.linkedin.com/in/aleks-arriola/) · [Handshake](https://app.joinhandshake.com/profiles/aleksarriola) · [Email](mailto:aleksarriola@gmail.com)
+<p align="center"><sub>This profile updates itself every morning: essays, quote and site deploy all run on GitHub Actions.</sub></p>
