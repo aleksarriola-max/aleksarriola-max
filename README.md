@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Quant Research Starts With the Data Cleaning Log](https://aleksarriola-max.github.io/#essay-88) · Oct 18
 - [Value at Risk Is a Statement About the Quiet Days](https://aleksarriola-max.github.io/#essay-87) · Oct 17
 - [Reading XBRL Taught Me That Tags Are Judgments](https://aleksarriola-max.github.io/#essay-86) · Oct 16
-- [Treasury and Trade Solutions Is a Working Capital Story](https://aleksarriola-max.github.io/#essay-85) · Oct 15
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"In the short run, the market is a voting machine; in the long run, it's a weighing machine."*
-> — **Benjamin Graham**
+> *"Be fearful when others are greedy, and greedy when others are fearful."*
+> — **Warren Buffett**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
