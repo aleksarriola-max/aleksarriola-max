@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Explainability Is an Interface, Not a Model Property](https://aleksarriola-max.github.io/#essay-91) · Oct 21
 - [Intro Financial Accounting Still Explains Most Red Flags](https://aleksarriola-max.github.io/#essay-90) · Oct 20
 - [Insurance Reserves Are Estimates You Can Audit](https://aleksarriola-max.github.io/#essay-89) · Oct 19
-- [Quant Research Starts With the Data Cleaning Log](https://aleksarriola-max.github.io/#essay-88) · Oct 18
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"There is nothing new in Wall Street. What has happened in the past will happen again."*
-> — **Jesse Livermore**
+> *"Time is your friend; impulse is your enemy."*
+> — **John Bogle**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
