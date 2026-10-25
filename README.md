@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Two-Layer Hallucination Firewalls and What They Miss](https://aleksarriola-max.github.io/#essay-95) · Oct 25
 - [An AI Career Advisor Is Only as Good as Its Constraints](https://aleksarriola-max.github.io/#essay-94) · Oct 24
 - [Shipping Outsette Taught Me the Pipeline Is the Product](https://aleksarriola-max.github.io/#essay-93) · Oct 23
-- [Autonomy Needs a Plan-Versus-Actual Ledger](https://aleksarriola-max.github.io/#essay-92) · Oct 22
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"Risk is not inherent in an investment; it is always relative to the price paid."*
-> — **Seth Klarman**
+> *"Simplicity is a prerequisite for reliability."*
+> — **Edsger Dijkstra**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
