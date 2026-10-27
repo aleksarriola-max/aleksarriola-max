@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Free-Tier Cold Starts Taught Me to Design for Waking Up](https://aleksarriola-max.github.io/#essay-97) · Oct 27
 - [Persona-Based Explanations Are a Prompt Contract](https://aleksarriola-max.github.io/#essay-96) · Oct 26
 - [Two-Layer Hallucination Firewalls and What They Miss](https://aleksarriola-max.github.io/#essay-95) · Oct 25
-- [An AI Career Advisor Is Only as Good as Its Constraints](https://aleksarriola-max.github.io/#essay-94) · Oct 24
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,7 +155,7 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"The competent programmer is fully aware of the limited size of his own skull."*
+> *"Testing can show the presence of bugs but never their absence."*
 > — **Edsger Dijkstra**
 <!--QUOTE:END-->
 
