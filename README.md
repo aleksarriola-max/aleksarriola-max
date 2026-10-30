@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Why Race Telemetry Made Me Distrust Smooth Forecasts](https://aleksarriola-max.github.io/#essay-100) · Oct 30
 - [Vendor Trust Scoring Is a Prior, Not a Verdict](https://aleksarriola-max.github.io/#essay-99) · Oct 29
 - [Revocable Authority Is the Right Primitive for Agents](https://aleksarriola-max.github.io/#essay-98) · Oct 28
-- [Free-Tier Cold Starts Taught Me to Design for Waking Up](https://aleksarriola-max.github.io/#essay-97) · Oct 27
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"The question of whether a computer can think is no more interesting than whether a submarine can swim."*
-> — **Edsger Dijkstra**
+> *"Make it work, make it right, make it fast."*
+> — **Kent Beck**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
