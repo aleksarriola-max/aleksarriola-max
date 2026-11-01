@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Redesigning Onboarding Beat Writing Another Sales Script](https://aleksarriola-max.github.io/#essay-102) · Nov 1
 - [What My Internship at The 1525 Taught Me About Working Without Supervision](https://aleksarriola-max.github.io/#essay-101) · Oct 31
 - [Why Race Telemetry Made Me Distrust Smooth Forecasts](https://aleksarriola-max.github.io/#essay-100) · Oct 30
-- [Vendor Trust Scoring Is a Prior, Not a Verdict](https://aleksarriola-max.github.io/#essay-99) · Oct 29
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"Plans are worthless, but planning is everything."*
-> — **Dwight D. Eisenhower**
+> *"Simplicity is the ultimate sophistication."*
+> — **Leonardo da Vinci**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
