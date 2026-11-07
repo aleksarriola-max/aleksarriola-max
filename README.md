@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Being Open to Opportunities Without Sounding Desperate](https://aleksarriola-max.github.io/#essay-108) · Nov 7
 - [What a Recommendation Can and Cannot Prove](https://aleksarriola-max.github.io/#essay-107) · Nov 6
 - [Thinking in Two Languages Changed How I Write Specs](https://aleksarriola-max.github.io/#essay-106) · Nov 5
-- [Why I Take Courses Outside Finance](https://aleksarriola-max.github.io/#essay-105) · Nov 4
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"It's easier to ask forgiveness than it is to get permission."*
-> — **Grace Hopper**
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> — **Martin Fowler**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
