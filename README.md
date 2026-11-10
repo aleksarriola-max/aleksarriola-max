@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."*
-> — **Archimedes**
+> *"It's not that I'm so smart, it's just that I stay with problems longer."*
+> — **Albert Einstein**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
