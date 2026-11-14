@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"Nothing in this world can take the place of persistence."*
-> — **Calvin Coolidge**
+> *"I have not failed. I've just found 10,000 ways that won't work."*
+> — **Thomas Edison**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
