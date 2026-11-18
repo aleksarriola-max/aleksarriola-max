@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'"*
-> — **Muhammad Ali**
+> *"Never, never, never give up."*
+> — **Winston Churchill**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
