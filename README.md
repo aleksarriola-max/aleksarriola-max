@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [When Bankruptcy Models Disagree, Read the Disagreement](https://aleksarriola-max.github.io/#essay-112) · Nov 23
+- [Revenue Quality Is the First Thing to Rot](https://aleksarriola-max.github.io/#essay-111) · Nov 22
 - [What the Bloomberg Client Engagement Course Taught Me About Service](https://aleksarriola-max.github.io/#essay-110) · Nov 9
-- [The Hidden Cost of Maintaining Eight Live Apps](https://aleksarriola-max.github.io/#essay-109) · Nov 8
-- [Being Open to Opportunities Without Sounding Desperate](https://aleksarriola-max.github.io/#essay-108) · Nov 7
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"Motivation is what gets you started. Habit is what keeps you going."*
-> — **Jim Ryun**
+> *"The successful warrior is the average man with laser-like focus."*
+> — **Bruce Lee**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
