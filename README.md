@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [Every Valuation Needs a Narrative Bridge](https://aleksarriola-max.github.io/#essay-115) · Nov 26
 - [A Track Record You Cannot Quietly Edit](https://aleksarriola-max.github.io/#essay-114) · Nov 25
 - [Write the Bear Case Before You Fall for the Bull Case](https://aleksarriola-max.github.io/#essay-113) · Nov 24
-- [When Bankruptcy Models Disagree, Read the Disagreement](https://aleksarriola-max.github.io/#essay-112) · Nov 23
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"It's not about resources. It's about resourcefulness."*
-> — **Tony Robbins**
+> *"You don't have to be great to get started, but you have to get started to be great."*
+> — **Les Brown**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
