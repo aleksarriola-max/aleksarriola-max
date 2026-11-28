@@ -142,9 +142,9 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Latest writing
 
 <!--ESSAYS:START-->
+- [A Membership Price Is a Bet on Utilization](https://aleksarriola-max.github.io/#essay-117) · Nov 28
 - [Duplicate Payments Are a Controls Failure Before They Are Fraud](https://aleksarriola-max.github.io/#essay-116) · Nov 27
 - [Every Valuation Needs a Narrative Bridge](https://aleksarriola-max.github.io/#essay-115) · Nov 26
-- [A Track Record You Cannot Quietly Edit](https://aleksarriola-max.github.io/#essay-114) · Nov 25
 <!--ESSAYS:END-->
 
 <sub>Updated daily from my [essay feed](https://aleksarriola-max.github.io/feed.xml) · [all essays](https://aleksarriola-max.github.io/#writing)</sub>
@@ -155,8 +155,8 @@ Reliability is a design choice, not a model upgrade. Most of what makes a system
 ### Quote of the Day
 
 <!--QUOTE:START-->
-> *"You cannot change your destination overnight, but you can change your direction overnight."*
-> — **Jim Rohn**
+> *"Whatever the mind can conceive and believe, it can achieve."*
+> — **Napoleon Hill**
 <!--QUOTE:END-->
 
 <sub>Rotates daily via [GitHub Actions](.github/workflows/daily-quote.yml) from a [curated list](quotes.json) on risk, markets, persistence, and building.</sub>
